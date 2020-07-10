@@ -1,22 +1,22 @@
-{
 
-	"hero": {
-        "greeting": "Welcome!",
-        "introduction": "My name is Cleo, Iam a full stack software developer. Iam excited to work on your project",
-        "img_profile" : "https://lh3.googleusercontent.com/QL0lxws0aLbC5SOPAVRcUAYgwNkDt2hXhNVAIEosDM2NUQAaIaZOn4J-WgWhQsONFebq2r0d5aNBx_ap8c2xFTwi1PQ",
-        "img_background": "https://lh3.googleusercontent.com/0Dko3m7qsbnM0uRB40Gd_hzr7y1CPLVk7PNRCCvP5klnl-zc_TXkr29Q-6CXop_ocN6ZjBs-TkeCZ3Di0VFMUSassLY"
-    },
-    "projects": {
-    	"header": "My Projects",
-    	"subheader": "Take a look at my most recent work!"
-    },
-	"image_profile": "https://pbs.twimg.com/profile_images/994716153606914048/i6UMX-ie_400x400.jpg",
-	"greeting": "Hello! My name is Cleo!",
-	"introduction": "I am a web developer from Kenya",
-	"languages": [
+		{"name":"c#", "years":"1"}
 		{"name":"javascript", "years":"5"},
 		{"name":"python", "years":"4"},
 		{"name":"swift", "years":"5"},
-		{"name":"c#", "years":"1"}
+	"greeting": "Hello! My name is Cleo!",
+	"hero": {
+	"image_profile": "https://pbs.twimg.com/profile_images/994716153606914048/i6UMX-ie_400x400.jpg",
+	"introduction": "I am a web developer from Kenya",
+	"languages": [
 	]
+    	"header": "My Projects",
+    	"subheader": "Take a look at my most recent work!"
+        "greeting": "Welcome!",
+        "img_background": "https://lh3.googleusercontent.com/0Dko3m7qsbnM0uRB40Gd_hzr7y1CPLVk7PNRCCvP5klnl-zc_TXkr29Q-6CXop_ocN6ZjBs-TkeCZ3Di0VFMUSassLY"
+        "img_profile" : "https://lh3.googleusercontent.com/QL0lxws0aLbC5SOPAVRcUAYgwNkDt2hXhNVAIEosDM2NUQAaIaZOn4J-WgWhQsONFebq2r0d5aNBx_ap8c2xFTwi1PQ",
+        "introduction": "My name is Cleo, Iam a full stack software developer. Iam excited to work on your project",
+    "projects": {
+    },
+    },
+{
 }
