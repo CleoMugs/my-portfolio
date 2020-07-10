@@ -6,6 +6,14 @@
         "img_profile" : "https://lh3.googleusercontent.com/QL0lxws0aLbC5SOPAVRcUAYgwNkDt2hXhNVAIEosDM2NUQAaIaZOn4J-WgWhQsONFebq2r0d5aNBx_ap8c2xFTwi1PQ",
         "img_background": "https://lh3.googleusercontent.com/0Dko3m7qsbnM0uRB40Gd_hzr7y1CPLVk7PNRCCvP5klnl-zc_TXkr29Q-6CXop_ocN6ZjBs-TkeCZ3Di0VFMUSassLY"
     },
+    "gallery": {
+        "img_1": "https://lh3.googleusercontent.com/6zeQ5R0PtDnGGRin73vxqENxMF5zuESTFEXH98AeiHn_Et4HJo6E_nzWuwgnRPOLhI0rqI7BGQXvsyzIDRqzBFrgfA",
+        "img_2": "https://lh3.googleusercontent.com/AFOZsHkV4Wz1qYKGoNF18gBeMF4q6I78HydCjmBk1fd8OLGXDvh88ZmwjvTuvgxVDiaDg0-HkM5NV9WaQ9hxP3F2hw8",
+        "img_3": "https://lh3.googleusercontent.com/L3Xkm77jLXy_FfsO_3C5H9Mcu3Z8QwbTdTWDggw6xgS5Um5Xtg9h56GOBdeJ-8Dp1zvM3h1EyOgVgy45CSUcAfSm",
+        "img_4": "https://lh3.googleusercontent.com/IHd860xF3eXnK2coqtTnsMD0ciXK-BMQ5rLgK320uslofVP-bnFnXix6P35ChHKWhXWGSn798CGY4ZRXsMAaU00V2g",
+        "img_5": "https://lh3.googleusercontent.com/zvs4i1VhDFY6t6dIuOKFn-g_SBWySTAp0v4Ye5Ube6R8vJlJABUMfkvAIR3oIsd1n_8h6c_YN-HzPgm85UAUv9IpaA",
+        "img_6": "https://lh3.googleusercontent.com/J6N5tZLwrnYiQpxlr5CP01symJcenAEY1LL0bhMTrkfqjpKmPWo9KQWUv4f9J3WWxedgCgxdvVqr3OQLKf3LiRqC43I"
+    },
 	"image_profile": "https://pbs.twimg.com/profile_images/994716153606914048/i6UMX-ie_400x400.jpg",
 	"greeting": "Hello! My name is Cleo!",
 	"introduction": "I am a web developer from Kenya",
