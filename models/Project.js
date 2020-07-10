@@ -14,15 +14,15 @@ const props = {
   image: {type:String, default:''},
   name: {type:String, default:'', trim:true, display:true},
   category: {type:String, default:''},
-	slug: {type:String, default:'', immutable:true},
+  slug: {type:String, default:'', immutable:true},
   preview: {type:String, default:''},
   link: {type:String, default:''},
   client: {type:String, default:''},
   dateRange: {type:String, default:''},
   description: {type:String, default:'', isHtml:true},
-	schema: {type:String, default:'project', immutable:true},
-	dateString: {type:String, default:'', immutable:true},
-	timestamp: {type:Date, default: new Date(), immutable:true}
+  schema: {type:String, default:'project', immutable:true},
+  dateString: {type:String, default:'', immutable:true},
+  timestamp: {type:Date, default: new Date(), immutable:true}
 }
 
 class Project extends Document {
