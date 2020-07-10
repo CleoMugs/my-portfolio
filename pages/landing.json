@@ -1,8 +1,10 @@
 {
 
 	"hero": {
-        
-        "img_background": "https://lh3.googleusercontent.com/C1i_KBLny94Z59lW8aYCntNMN4G6YjhOGT2VgPnxqLIKre_zhm8tjien_L8akTqnnZiHdUYVwC_MteGv4WramMo0HAQ"
+        "greeting": "Welcome!",
+        "introduction": "My name is Cleo, Iam a full stack software developer. Iam excited to work on your project",
+        "img_profile" : "https://lh3.googleusercontent.com/QL0lxws0aLbC5SOPAVRcUAYgwNkDt2hXhNVAIEosDM2NUQAaIaZOn4J-WgWhQsONFebq2r0d5aNBx_ap8c2xFTwi1PQ",
+        "img_background": "https://lh3.googleusercontent.com/0Dko3m7qsbnM0uRB40Gd_hzr7y1CPLVk7PNRCCvP5klnl-zc_TXkr29Q-6CXop_ocN6ZjBs-TkeCZ3Di0VFMUSassLY"
     },
 	"image_profile": "https://pbs.twimg.com/profile_images/994716153606914048/i6UMX-ie_400x400.jpg",
 	"greeting": "Hello! My name is Cleo!",
