@@ -1,21 +1,32 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-	<title></title>
+    <title>The Gallery</title>
+    <meta name="description" content="" />
+
+    {{>head}}
 </head>
+
 <body>
-	<img src="{{{image_profile}}}" />
-	<h1>{{greeting}}</h1>
-	<p>{{introduction}}</p>
-	<h3>Programming Languages</h3>
-	<ol>
-		{{#languages}}
-		<li>{{name}}, {{years}} of experience</li>
-		{{/languages}}
-	</ol>
-
-	{{>form}}
-	
-
+    <div class="blocks-page">
+        {{>header2}}
+		<section style="background:url('{{{page.hero.img_background}}}=s2048');background-size:cover;background-position:center;">
+		    <div class="gradient-div py-3" style="height:76vh">
+		        <div class="container">
+		            <div class="row justify-content-center header-row">
+		                <div class="col-12 col-md-8 col-lg-7 text-center text-white">
+		                    <h1 class="display-3 mt-4">Ready, Set, Grow.</h1>
+		                    <p class="lead text-white mb-4 mt-4">
+		                        A robust suite of styled components, powered by Bootstrap 4.  Take the design of your website or webapp up a notch.
+		                    </p>
+		                    <a href="#" class="btn btn-info btn-lg">Get started now</a>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		</section>
+        {{>footer}}
+    </div>
+    {{>scripts}}
 </body>
 </html>

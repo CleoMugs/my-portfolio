@@ -1,4 +1,9 @@
 {
+
+	"hero": {
+        
+        "img_background": "https://lh3.googleusercontent.com/C1i_KBLny94Z59lW8aYCntNMN4G6YjhOGT2VgPnxqLIKre_zhm8tjien_L8akTqnnZiHdUYVwC_MteGv4WramMo0HAQ"
+    },
 	"image_profile": "https://pbs.twimg.com/profile_images/994716153606914048/i6UMX-ie_400x400.jpg",
 	"greeting": "Hello! My name is Cleo!",
 	"introduction": "I am a web developer from Kenya",
