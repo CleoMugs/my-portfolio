@@ -15,9 +15,17 @@ router.get('/', (req, res) => {
 	})
 	.catch(err => {
 		res.send('Oops! '+err.message)
+
 	})
 
 })
 
+
+router.get('/project/:slug', (req, res) => {
+	const data = req.context
+	const projectSlug = req.params.slug
+
+	res.send('SLUG == ' + projectSlug)
+})
 
 module.exports = router
