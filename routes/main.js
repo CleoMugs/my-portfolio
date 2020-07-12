@@ -43,4 +43,7 @@ router.get('/project/:slug', (req, res) => {
 	})
 })
 
+// export this module
 module.exports = router
+
+

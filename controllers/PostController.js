@@ -4,7 +4,7 @@ const Post = require('../models/Post')
 
 class PostController extends Controller {
 	constructor(){
-		super(Post, process.env)
+	 	super(Post, process.env)
 	}
 
 	get(params) {
