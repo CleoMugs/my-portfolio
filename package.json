@@ -12,7 +12,7 @@
     "postinstall": "turbo postinstall"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "proxy-addr": "^2.0.3",
     "range-parser": "^1.2.0",
     "safe-buffer": "5.1.1",
